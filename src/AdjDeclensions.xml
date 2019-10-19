@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Declensions>
+    <Group>
+        <Declension> 1st </Declension>
+        <Masculine>
+            <Singular>
+                <Genitive> ī </Genitive>
+                <Dative> ō </Dative>
+                <Accusative> um </Accusative>
+                <Ablative> ō </Ablative>
+            </Singular>
+            <Plural>
+                <Nominative> ī </Nominative>
+                <Genitive> ōrum </Genitive>
+                <Dative> īs </Dative>
+                <Accusative> ōs </Accusative>
+                <Ablative> īs </Ablative>
+                <Vocative> ī </Vocative>
+            </Plural>
+        </Masculine>
+        <Feminine>
+            <Singular>
+                <Nominative> a </Nominative>
+                <Genitive> ae </Genitive>
+                <Dative> ae </Dative>
+                <Accusative> am </Accusative>
+                <Ablative> ā </Ablative>
+                <Vocative> a </Vocative>
+            </Singular>
+            <Plural>
+                <Nominative> ae </Nominative>
+                <Genitive> ārum </Genitive>
+                <Dative> īs </Dative>
+                <Accusative> ās </Accusative>
+                <Ablative> īs </Ablative>
+                <Vocative> ae </Vocative>
+            </Plural>
+        </Feminine>
+        <Neuter>
+            <Singular>
+                <Nominative> um </Nominative>
+                <Genitive> ī </Genitive>
+                <Dative> ō </Dative>
+                <Accusative> um </Accusative>
+                <Ablative> ō </Ablative>
+                <Vocative> um </Vocative>
+            </Singular>
+            <Plural>
+                <Nominative> a </Nominative>
+                <Genitive> ōrum </Genitive>
+                <Dative> īs </Dative>
+                <Accusative> a </Accusative>
+                <Ablative> īs </Ablative>
+                <Vocative> a </Vocative>
+            </Plural>
+        </Neuter>
+    </Group>
+    <Group>
+        <Declension> 3rdi </Declension>
+        <Human>
+            <Singular>
+                <Genitive> is </Genitive>
+                <Dative> ī </Dative>
+                <Accusative> em </Accusative>
+                <Ablative> ī </Ablative>
+            </Singular>
+            <Plural>
+                <Nominative> ēs </Nominative>
+                <Genitive> ium </Genitive>
+                <Dative> ibus </Dative>
+                <Accusative> ēs </Accusative>
+                <Ablative> ibus </Ablative>
+                <Vocative> ēs </Vocative>
+            </Plural>
+        </Human>
+        <Neuter>
+            <Singular>
+                <Genitive> is </Genitive>
+                <Dative> ī </Dative>
+                <Ablative> ī </Ablative>
+            </Singular>
+            <Plural>
+                <Nominative> ia </Nominative>
+                <Genitive> ium </Genitive>
+                <Dative> ibus </Dative>
+                <Accusative> ia </Accusative>
+                <Ablative> ibus </Ablative>
+                <Vocative> ia </Vocative>
+            </Plural>
+        </Neuter>
+    </Group>
+</Declensions>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Adjectives>
+	<Word>
+		<Latin> parvus </Latin>
+		<Declension> 1st </Declension>
+		<Stem> parv </Stem>
+		<English> small </English>
+	</Word>
+	<Word>
+		<Latin> bellus </Latin>
+		<Declension> 1st </Declension>
+		<Stem> bell </Stem>
+		<English> pretty </English>
+	</Word>
+    <Word>
+        <Latin> acer </Latin>
+        <Declension> 3rdi </Declension>
+        <Stem> acr </Stem>
+        <English> sharp </English>
+    </Word>
+	<Word>
+		<Latin> levis </Latin>
+		<Declension> 3rdi </Declension>
+		<Stem> lev </Stem>
+		<English> light </English>
+	</Word>
+</Adjectives>

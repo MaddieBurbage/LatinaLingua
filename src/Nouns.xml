@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Nouns>
+	<Word>
+		<Latin> puer </Latin>
+		<Declension> 2nd </Declension>
+		<Stem> puer </Stem>
+		<Gender> masculine </Gender>
+		<English> boy </English>
+	</Word>
+	<Word>
+		<Latin> puella </Latin>
+		<Declension> 1st </Declension>
+		<Stem> puell </Stem>
+		<Gender> feminine </Gender>
+		<English> girl </English>
+	</Word>
+    <Word>
+        <Latin> agricola </Latin>
+        <Declension> 1st </Declension>
+        <Stem> agricol </Stem>
+        <Gender> masculine </Gender>
+        <English> farmer </English>
+    </Word>
+    <Word>
+        <Latin> soror </Latin>
+        <Declension> 3rd </Declension>
+        <Stem> soror </Stem>
+        <Gender> feminine </Gender>
+        <English> sister </English>
+    </Word>
+    <Word>
+        <Latin> bellum </Latin>
+        <Declension> 2nd </Declension>
+        <Stem> bell </Stem>
+        <Gender> neuter </Gender>
+        <English> war </English>
+    </Word>
+    <Word>
+        <Latin> dies </Latin>
+        <Declension> 5th </Declension>
+        <Stem> di </Stem>
+        <Gender> masculine </Gender>
+        <English> day </English>
+    </Word>
+    <Word>
+        <Latin> manus </Latin>
+        <Declension> 4th </Declension>
+        <Stem> man </Stem>
+        <Gender> feminine </Gender>
+        <English> hand </English>
+    </Word>
+    <Word>
+        <Latin> homō </Latin>
+        <Declension> 3rd </Declension>
+        <Stem> homin </Stem>
+        <Gender> masculine </Gender>
+        <English> man </English>
+    </Word>
+    <Word>
+        <Latin> animal </Latin>
+        <Declension> 3rdi </Declension>
+        <Stem> animāl </Stem>
+        <Gender> neuter </Gender>
+        <English> animal </English>
+    </Word>
+</Nouns>
